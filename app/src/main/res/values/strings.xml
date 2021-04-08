@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">John Travolta</string>
+    <string name="width">Lebar</string>
+    <string name="result">Hasil</string>
+    <string name="jamKerja">Jam Kerja</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="calculate_volume">Hitung Volume</string>
+    <string name="calculate_surface_area">Hitung Luas Area</string>
+    <string name="calculate_circumference">Hitung Keliling</string>
+    <string name="height">Tinggi</string>
+    <string name="length">Panjang</string>
+    <string name="save">Simpan</string>
+    <string name="hitungGaji">Hitung Gaji</string>
+    <string name="hitungPengeluaran">Hitung Pengeluaran</string>
+</resources>
